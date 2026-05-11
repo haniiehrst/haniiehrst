@@ -7,6 +7,3 @@
 
 ---
 
-### 🧠 Schrödinger’s Equation (just for fun 🚀)
-```math
-i\hbar \frac{\partial}{\partial t} |\psi(t)\rangle = H |\psi(t)\rangle
